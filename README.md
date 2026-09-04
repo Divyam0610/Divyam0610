@@ -1,15 +1,19 @@
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/Divyam0610/Divyam0610/main/dark.svg">
+    srcset="https://raw.githubusercontent.com/Divyam0610/Divyam0610/main/dark.svg"
+  />
 
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/Divyam0610/Divyam0610/main/light.svg">
+    srcset="https://raw.githubusercontent.com/Divyam0610/Divyam0610/main/light.svg"
+  />
 
   <img
+    src="https://raw.githubusercontent.com/Divyam0610/Divyam0610/main/light.svg"
     alt="Divyam Gupta — Python Developer | Machine Learning | LLM Systems | Backend"
-    src="https://raw.githubusercontent.com/Divyam0610/Divyam0610/main/light.svg">
+    width="1180"
+  />
 </picture>
 
 
