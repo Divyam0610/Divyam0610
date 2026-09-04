@@ -1,20 +1,16 @@
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/Divyam0610/Divyam0610/main/dark.svg"
-  />
-
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/Divyam0610/Divyam0610/main/light.svg"
-  />
-
+<p align="center">
   <img
-    src="https://raw.githubusercontent.com/Divyam0610/Divyam0610/main/light.svg"
+    src="https://raw.githubusercontent.com/Divyam0610/Divyam0610/main/light.svg#gh-light-mode-only"
     alt="Divyam Gupta — Python Developer | Machine Learning | LLM Systems | Backend"
     width="1180"
   />
-</picture>
+
+  <img
+    src="https://raw.githubusercontent.com/Divyam0610/Divyam0610/main/dark.svg#gh-dark-mode-only"
+    alt="Divyam Gupta — Python Developer | Machine Learning | LLM Systems | Backend"
+    width="1180"
+  />
+</p>
 
 
 ## 👋 About Me
