@@ -29,16 +29,17 @@ I build practical software at the intersection of **AI and application developme
 - 🚀 AI-powered Applications
 
 > **Build. Learn. Engineer. Ship.**
-> 
->## 🌐 Connect With Me
+---
+
+## 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Divyam%20Gupta-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/divyam-gupta-053621342)
 
 [![Instagram](https://img.shields.io/badge/Instagram-Divyam%20Gupta-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/divyam_gupta.05)
 
 [![Email](https://img.shields.io/badge/Email-divyamgupta242%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:divyamgupta242@gmail.com)
->
-> ---
+
+---
 
 ## 🚀 Featured Projects
 
@@ -61,12 +62,17 @@ I build practical software at the intersection of **AI and application developme
 
 ## 🎯 Currently Focused On
 
-```text
-Python Development       ████████████████████░░  90%
-Machine Learning         ██████████████████░░░░  85%
-LLM / Generative AI      █████████████████░░░░░  80%
-Backend Development      ████████████████░░░░░░  75%
-Data & Databases         ███████████████░░░░░░░  70%
+| Area | Focus |
+|---|---|
+| 🤖 | Generative AI & LLM Applications |
+| 🧠 | Machine Learning & Deep Learning |
+| 🐍 | Advanced Python Development |
+| ⚡ | Backend & API Development |
+| 🔄 | AI Inference & Model Orchestration |
+| 🛡️ | AI + Cybersecurity |
+| 📊 | End-to-End ML Pipelines |
+
+---
 
 ## 🏆 Achievements
 
@@ -83,12 +89,12 @@ Data & Databases         ███████████████░░░�
 
 - ♟️ **Regional-Level Chess Certificate Holder**
 
-
 ---
 
 ## 💼 Experience
 
 ### 🤖 Artificial Intelligence Intern
+
 **Codec Technologies** · Remote  
 `Jun 2026 – Jul 2026`
 
@@ -107,18 +113,22 @@ Worked on practical AI development with exposure to:
 ---
 
 ### 🐍 Python Developer Intern
+
 **CodSoft** · Remote  
 `Aug 2025 – Sep 2025`
 
 Worked on Python-based development through practical assignments and application development.
 
 **Focus areas:**
+
 - Python programming
 - Object-Oriented Programming
 - Debugging
 - Logical problem solving
 - Git & GitHub
 - Practical software development
+
+---
 
 ## 📜 Certifications
 
@@ -128,64 +138,5 @@ Worked on Python-based development through practical assignments and application
 
 ---
 
-## 🎯 Currently Focused On
-
-```text
-┌─────────────────────────────────────────────────────┐
-│                  CURRENT FOCUS                       │
-├─────────────────────────────────────────────────────┤
-│                                                     │
-│  🤖 Generative AI & LLM Applications                │
-│  🧠 Machine Learning & Deep Learning                 │
-│  🐍 Advanced Python Development                     │
-│  ⚡ Backend & API Development                        │
-│  🔄 AI Inference & Model Orchestration              │
-│  🛡️ AI + Cybersecurity                              │
-│  📊 End-to-End ML Pipelines                         │
-│                                                     │
-└─────────────────────────────────────────────────────┘
-
-
-
----
-
-# 📊 NEXT BIG STEP — GitHub Statistics
-
-**Don't paste statistics yet.**
-
-This is important because I don't want your profile filled with random third-party badges that look impressive but don't actually improve the portfolio.
-
-Our next section will be:
-
-```text
-╔══════════════════════════════════════════════════╗
-║                  GITHUB ACTIVITY                 ║
-╠══════════════════════════════════════════════════╣
-║                                                  ║
-║   Contribution Graph                             ║
-║                                                  ║
-║   GitHub Stats          Top Languages            ║
-║                                                  ║
-║   Streak                Profile Summary          ║
-║                                                  ║
-╚══════════════════════════════════════════════════╝
-
-
----
-
----
-
 ## 📊 GitHub Activity
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Divyam0610&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&theme=transparent"
-    alt="Divyam Gupta's GitHub Statistics"
-    height="180"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Divyam0610&layout=compact&hide_border=true&langs_count=8&theme=transparent"
-    alt="Divyam Gupta's Top Languages"
-    height="180"
-  />
-</p>
