@@ -138,5 +138,18 @@ Worked on Python-based development through practical assignments and application
 
 ---
 
-## 📊 GitHub Activity
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img
+    src="https://github-readme-stats-sigma-nine-78.vercel.app/api?username=Divyam0610&show_icons=true&hide_rank=true&include_all_commits=true&count_private=true&theme=transparent&bg_color=0A101F&title_color=22D3EE&text_color=94A3B8&icon_color=A78BFA&border_color=22D3EE"
+    alt="Divyam Gupta GitHub Stats"
+    width="49%"
+  />
+  <img
+    src="https://github-readme-stats-sigma-nine-78.vercel.app/api/top-langs/?username=Divyam0610&layout=compact&langs_count=8&theme=transparent&bg_color=0A101F&title_color=22D3EE&text_color=94A3B8&icon_color=A78BFA&border_color=22D3EE"
+    alt="Divyam Gupta Top Languages"
+    width="49%"
+  />
+</p>
 
